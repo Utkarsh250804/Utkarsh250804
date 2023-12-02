@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
 <h3 align="center">Student of B.tech (Ai/ds) at Aks university </h3>
-
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3skChCQeVpvtuW6w2Lp5-HpzDxQLGrEEZNdrjg_QlZJpsVUwYUDyZgGyMV0wzBIw6T0&usqp=CAU">
 - 🌱 I’m currently learning **python programming ,pandas**
  
 - 💬 Ask me about **C language ,debugging**
